@@ -1,10 +1,10 @@
-package com.example.demo.h2;
+package com.example.demo.x;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoH2DbApplicationTests {
+class DemoXApplicationTests {
 
 	@Test
 	void contextLoads() {
